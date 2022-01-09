@@ -15,9 +15,14 @@ now : The Expanse
 
 All these options can be activated or deactivated by changing the tru or false at the initialization of the variables or at the beginning of the script.
 
-To add: search for VFQ, delete the 90 days message (private message), comments, options configurable from a button on the site, infinite scrolling
+##To add:
+- search for VFQ
+- delete the 90 days message (private message)
+- comments
+- options configurable from a button on the site
+- infinite scrolling
 
-INSTALLATION:
+##INSTALLATION:
 1. you need a script manager. I recommend TamperMonkey or ViolentMonkey, they are compatible with most browsers.
 Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 Violentmonkey: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
