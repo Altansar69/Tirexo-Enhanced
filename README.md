@@ -1,7 +1,8 @@
 # Tirexo-Enhanced
 Enhanced your experience at Tirexo
-
 This script made for the site https://www.tirexo.work/ does several things.
+
+## Features:
 - Change the size (customizable) and color (customizable) of the "qualities", by default more the qualities of a file is good more the color will be blue (5 colors) and more it will be bad more it will be red.
 - Change the color (customizable) and size (customizable) of the language (4 in total), 1 for VO (VOSTFR + VO), 1 for French (VF, Truefrench, VFSTFR, VFQ), 1 for Multi and 1 for other languages.
 - change the size (customizable) of the "season"
