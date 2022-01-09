@@ -15,17 +15,17 @@ now : The Expanse
 
 All these options can be activated or deactivated by changing the tru or false at the initialization of the variables or at the beginning of the script.
 
-##To add:
+## To add:
 - search for VFQ
 - delete the 90 days message (private message)
 - comments
 - options configurable from a button on the site
 - infinite scrolling
 
-##INSTALLATION:
+## INSTALLATION:
 1. you need a script manager. I recommend TamperMonkey or ViolentMonkey, they are compatible with most browsers.
-Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-Violentmonkey: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
+[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+[Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 choose one and add it to your browser.
 2. Install the script. Either from here, or by clicking on this link: https://greasyfork.org/fr/scripts/438230-tirexo-enhanced
 
