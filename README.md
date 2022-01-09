@@ -32,4 +32,4 @@ All these options can be activated or deactivated by changing the tru or false a
 choose one and add it to your browser.
 2. Install the script. Either from here, or by clicking on this link: https://greasyfork.org/fr/scripts/438230-tirexo-enhanced
 
-You just have to go on Tirexo and enjoy ;). When an update is available it will be done automatically
+You just have to go on Tirexo and enjoy 😉. When an update is available it will be done automatically
