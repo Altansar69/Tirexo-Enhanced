@@ -21,3 +21,12 @@ To add
 -> comments
 -> options configurable from a button on the site
 -> infinite scrolling
+
+INSTALLATION:
+1. you need a script manager. I recommend TamperMonkey or ViolentMonkey, they are compatible with most browsers.
+Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+Violentmonkey: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
+choose one and add it to your browser.
+2. Install the script. Either from here, or by clicking on this link: https://greasyfork.org/fr/scripts/438230-tirexo-enhanced
+
+You just have to go on Tirexo and enjoy ;). When an update is available it will be done automatically
