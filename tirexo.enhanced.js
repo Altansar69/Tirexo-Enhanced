@@ -36,7 +36,7 @@ Thanks to Royalgamer06 and SubZeroPL for their script for the rin in which i bas
 0.7 -> You can easily change options of this script (change true by false)
 0.8 -> Hide Info Box
 0.9 -> Title Improve + redirection fake website to the real
-1.0 -> Désactivate Hide Bad Quality in home page + remove re-up message + remove 90days message + hide related article + hide message article + hide warning search + share this script on forum
+1.0 -> Title improve (almost finished) + Desactivate Hide Bad Quality in home page + remove re-up message + remove 90days message + hide related article + hide message article + hide warning search + share this script on forum
 */
 
 
