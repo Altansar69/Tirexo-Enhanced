@@ -12,18 +12,24 @@ credits: The idea of this script comes from the one made by RoyalGamer06 then ta
 by default: Télécharger The Expanse saison 2 COMPLETE ou voir en streaming gratuitement TVrip (VOSTFR) » Tirexo - 1er site de téléchargement direct francophone
 now : The Expanse
 - Hides the articles being in a bad quality (customizable). The quality is categorized in 5. Basically the 2 lowest quality are hidden but it is customizable. Obviously it is useless to change the color of the "very low" quality if it is to hide it.
-- masks the articles being in certain languages (customizable). Disable by default.
+- Masks the articles being in certain languages (customizable). Disable by default.
 - Delete the infobox encouraging you to change your DNS.
-- redirects the fake tirexo site to the real one
+- Redirects the fake tirexo site to the real one
+- Redirects old address of Tirexo the the latest
+- TestFunction (useless for now)
+- Supress related article
+- Supress days message (infobox)
+- Suppress the warning message when you want to create an article
+- Supress the warning message when you search article
 
 All these options can be activated or deactivated by changing the tru or false at the initialization of the variables or at the beginning of the script.
 
 ## To add:
-- search for VFQ
-- delete the 90 days message (private message)
-- comments
-- options configurable from a button on the site
-- infinite scrolling
+-> add search for vfq
+-> dynamic who is online and dynamic time (forum)
+-> options configurable from a button on the site
+-> infinite scrolling
+-> article preview
 
 ## INSTALLATION:
 1. you need a script manager. I recommend TamperMonkey or ViolentMonkey, they are compatible with most browsers.
