@@ -25,11 +25,11 @@ now : The Expanse
 All these options can be activated or deactivated by changing the tru or false at the initialization of the variables or at the beginning of the script.
 
 ## To add:
--> add search for vfq
--> dynamic who is online and dynamic time (forum)
--> options configurable from a button on the site
--> infinite scrolling
--> article preview
+- add search for vfq
+- dynamic who is online and dynamic time (forum)
+- options configurable from a button on the site
+- infinite scrolling
+- article preview
 
 ## INSTALLATION:
 1. you need a script manager. I recommend TamperMonkey or ViolentMonkey, they are compatible with most browsers.
