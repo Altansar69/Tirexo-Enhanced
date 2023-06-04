@@ -39,3 +39,6 @@ choose one and add it to your browser.
 2. Install the script. Either from here, or by clicking on this link: https://greasyfork.org/fr/scripts/438230-tirexo-enhanced
 
 You just have to go on Tirexo and enjoy 😉. When an update is available it will be done automatically
+
+## NOTES
+project archived after tirexo staff decided to be assholes
